@@ -1,0 +1,23 @@
+{
+  "name": "botsy",
+  "version": "1.0.0",
+  "description": "messenger bot root webhook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishivish18/botsy.git"
+  },
+  "author": "Vishal R",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishivish18/botsy/issues"
+  },
+  "homepage": "https://github.com/vishivish18/botsy#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
